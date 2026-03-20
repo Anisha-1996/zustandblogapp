@@ -89,7 +89,7 @@ Open: http://localhost:3000
 
 ##  Deployment
 
-LIVE-LINK ------> "" 
+LIVE-LINK ------> "https://zustandblogapp.vercel.app/login" 
 
 
 ---
